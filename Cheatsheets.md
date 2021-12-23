@@ -2,6 +2,12 @@
 
 A few of my favourites:
 
+## Reconnaissance
+
+https://github.com/jhaddix/KingOfBugBountyTips
+
+
+
 ## Reverse Shells
 
 https://www.revshells.com/
