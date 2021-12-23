@@ -20,6 +20,8 @@ https://portswigger.net/web-security/sql-injection/cheat-sheet
 
 https://github.com/payloadbox/sql-injection-payload-list
 
+https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+
 ## XSS
 
 https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
