@@ -22,7 +22,7 @@ Pentester Labs - https://pentesterlab.com/
 
 PortSwigger Academy - https://portswigger.net/web-security
 
-OWASP Testing Guider - https://owasp.org/www-project-web-security-testing-guide
+OWASP Top10 - https://owasp.org/Top10/
 
 ## IT/Network Fundamentals
 
@@ -31,6 +31,8 @@ INE
 ## Languages
 
 Python - https://docs.python.org/3/tutorial/index.html
+
+Python - https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
 SQL - https://sqlbolt.com/
 
