@@ -22,11 +22,16 @@ https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 
 https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html
 
-https://github.com/payloadbox/xss-payload-list
-
-
 ## Payloads - General
+
+https://github.com/GreenPoint-InfoSec/Payloads
 
 https://github.com/payloadbox
 
 https://github.com/swisskyrepo/PayloadsAllTheThings
+
+https://github.com/1N3/IntruderPayloads
+
+https://github.com/foospidy/payloads
+
+https://github.com/sh377c0d3/Payloads
