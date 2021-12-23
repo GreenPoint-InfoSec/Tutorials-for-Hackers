@@ -6,8 +6,6 @@ A few of my favourites:
 
 https://github.com/jhaddix/KingOfBugBountyTips
 
-
-
 ## Reverse Shells
 
 https://www.revshells.com/
