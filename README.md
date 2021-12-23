@@ -50,6 +50,8 @@ David Bombal - https://www.youtube.com/c/DavidBombal
 
 Nahamsec - https://www.youtube.com/c/Nahamsec
 
+Jason Haddix - https://www.youtube.com/c/jhaddix/videos
+
 Defcon - https://www.youtube.com/user/DEFCONConference
 
 Blackhat - https://www.youtube.com/c/BlackHatOfficialYT
