@@ -16,12 +16,17 @@ HackTheBox - https://www.hackthebox.com/
 
 Hacker101 - https://www.hacker101.com/start-here
 
+BugCrowd - https://www.bugcrowd.com/
+
+Pentester Labs - https://pentesterlab.com/
+
 PortSwigger Academy - https://portswigger.net/web-security
 
 OWASP Testing Guider - https://owasp.org/www-project-web-security-testing-guide
 
-## IT Fundamentals
+## IT/Network Fundamentals
 
+INE
 
 ## Languages
 
@@ -30,6 +35,8 @@ Python - https://docs.python.org/3/tutorial/index.html
 SQL - https://sqlbolt.com/
 
 JavaScript - https://javascript.info/
+
+Codeacademy - https://www.codecademy.com/
 
 ## Youtube Channels
 
@@ -41,8 +48,6 @@ David Bombal - https://www.youtube.com/c/DavidBombal
 
 Nahamsec - https://www.youtube.com/c/Nahamsec
 
-Jason Haddix - https://www.youtube.com/results?search_query=jason+haddix
-
 Defcon - https://www.youtube.com/user/DEFCONConference
 
 Blackhat - https://www.youtube.com/c/BlackHatOfficialYT
@@ -53,7 +58,22 @@ Null Byte - https://www.youtube.com/c/NullByteWHT
 
 OWASP - https://www.youtube.com/c/OWASPGLOBAL
 
-## Other
+BugCrowd - https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
 
+HackerOne - https://www.youtube.com/c/HackerOneTV
 
+## Other Resources
 
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+
+https://infosecwriteups.com/
+
+https://docs.docker.com/get-started/overview/
+
+https://book.hacktricks.xyz/
+
+https://guide.offsecnewbie.com/
+
+https://www.hackers-arise.com/
+
+https://github.com/Hack-with-Github/Awesome-Hacking
