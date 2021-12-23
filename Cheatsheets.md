@@ -21,3 +21,10 @@ https://github.com/payloadbox/sql-injection-payload-list
 https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 
 https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html
+
+
+## Payloads - General
+
+https://github.com/payloadbox
+
+https://github.com/swisskyrepo/PayloadsAllTheThings
