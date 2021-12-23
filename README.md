@@ -76,6 +76,8 @@ HackerOne - https://www.youtube.com/c/HackerOneTV
 
 https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 
+https://github.com/jhaddix/pentest-bookmarks
+
 https://infosecwriteups.com/
 
 https://docs.docker.com/get-started/overview/
