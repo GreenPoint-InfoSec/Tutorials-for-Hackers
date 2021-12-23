@@ -64,6 +64,12 @@ BugCrowd - https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
 
 HackerOne - https://www.youtube.com/c/HackerOneTV
 
+## RF
+
+## Wifi
+
+## IoT
+
 ## Other Resources
 
 https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
