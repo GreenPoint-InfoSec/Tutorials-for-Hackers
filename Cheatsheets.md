@@ -30,6 +30,10 @@ https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.ht
 
 https://github.com/jhaddix/XSS.png
 
+## Privelege Escalatioin
+
+https://gtfobins.github.io/
+
 ## Payloads - General
 
 https://github.com/GreenPoint-InfoSec/Payloads
