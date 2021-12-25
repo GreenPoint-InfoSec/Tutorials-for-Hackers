@@ -74,6 +74,14 @@ HackerOne - https://www.youtube.com/c/HackerOneTV
 
 ## IoT
 
+## Browser Plugins
+
+OpenList - https://addons.mozilla.org/en-GB/firefox/addon/openlist/
+
+FoxyProxy - https://addons.mozilla.org/en-GB/firefox/addon/foxyproxy-standard/
+
+Wappalyzer - https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/
+
 ## Other Resources
 
 https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
