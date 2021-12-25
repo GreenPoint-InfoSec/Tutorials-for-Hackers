@@ -42,6 +42,8 @@ Subfinder - https://github.com/projectdiscovery/subfinder
 
 Github-Subdomains - https://github.com/gwen001/github-subdomains
 
+Shosubgo - https://github.com/incogbyte/shosubgo
+
 Hunter (github dork) - https://gist.github.com/jhaddix/77253cea49bf4bd4bfd5d384a37ce7a4
 
 httprobe - https://github.com/tomnomnom/httprobe
