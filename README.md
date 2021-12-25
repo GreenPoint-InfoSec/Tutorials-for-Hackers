@@ -32,6 +32,8 @@ INE
 
 Python - https://docs.python.org/3/tutorial/index.html
 
+Python - https://www.pythonforbeginners.com/python-tutorial
+
 Python - https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
 SQL - https://sqlbolt.com/
