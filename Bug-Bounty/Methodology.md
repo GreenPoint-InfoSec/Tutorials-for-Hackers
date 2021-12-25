@@ -10,37 +10,45 @@ MindMaps - Xmind
 
 ### Finding Seeds and Roots
 
-**Identify in scope domains**
+Identify in scope domains
 
+Acquisitions
 
+ASN Enumeration
 
-**Acquisitions**
+Reverse WHOIS
 
+Ad and Analytics Relationships
 
+Google
 
-**ASN Enumeration**
-
-- bgp.he.net
-- amass intel --asn
-
-**Reverse WHOIS**
-
-
-
-**Ad and Analytics Relationships**
-
-
-
-**Google**
-
-
-
-**Shodan**
-
-
+Shodan
 
 ### Linked Discovery
+
+**Burp Scan**
+
+> Add a link to Burp.md
+
+**Subdomain Scraping**
+
+- Amass
+- Subfinder
+- Hunter
+- Github-Subdomains
+
+
+**Find Active Hosts**
+
+- httprobe
+
+
+
+
+
 
 **Sources**
 
 https://www.youtube.com/watch?v=uKWu6yhnhbQ
+
+The Web Applications Hackers Handbook
