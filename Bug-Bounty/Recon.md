@@ -48,25 +48,25 @@ Hunter (github dork) - https://gist.github.com/jhaddix/77253cea49bf4bd4bfd5d384a
 
 httprobe - https://github.com/tomnomnom/httprobe
 
-ShuffleDNS - 
+ShuffleDNS - https://github.com/projectdiscovery/shuffledns
 
-Favfreak - 
+Favfreak - https://github.com/devanshbatham/FavFreak
 
-Masscan -
+Masscan - https://github.com/robertdavidgraham/masscan
 
-Dnmasscan -
+Dnmasscan - https://github.com/rastating/dnmasscan
 
-EyeWitness -
+EyeWitness - https://github.com/FortyNorthSecurity/EyeWitness
 
-Aquatone -
+Aquatone - https://github.com/michenriksen/aquatone
 
-Nuclei - 
+Nuclei - https://github.com/projectdiscovery/nuclei
 
-Sn1per -
+Sn1per - https://github.com/1N3/Sn1per
 
-Gofingerprint - 
+Gofingerprint - https://github.com/Static-Flow/gofingerprint
 
-Nikto -
+Nikto - https://github.com/sullo/nikto
 
 ## Tips
 
