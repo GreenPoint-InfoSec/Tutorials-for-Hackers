@@ -38,6 +38,36 @@ Burp - https://portswigger.net/burp
 
 Wappalyzer - https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/
 
+Subfinder - https://github.com/projectdiscovery/subfinder
+
+Github-Subdomains - https://github.com/gwen001/github-subdomains
+
+Shosubgo - https://github.com/incogbyte/shosubgo
+
+Hunter (github dork) - https://gist.github.com/jhaddix/77253cea49bf4bd4bfd5d384a37ce7a4
+
+httprobe - https://github.com/tomnomnom/httprobe
+
+ShuffleDNS - https://github.com/projectdiscovery/shuffledns
+
+Favfreak - https://github.com/devanshbatham/FavFreak
+
+Masscan - https://github.com/robertdavidgraham/masscan
+
+Dnmasscan - https://github.com/rastating/dnmasscan
+
+EyeWitness - https://github.com/FortyNorthSecurity/EyeWitness
+
+Aquatone - https://github.com/michenriksen/aquatone
+
+Nuclei - https://github.com/projectdiscovery/nuclei
+
+Sn1per - https://github.com/1N3/Sn1per
+
+Gofingerprint - https://github.com/Static-Flow/gofingerprint
+
+Nikto - https://github.com/sullo/nikto
+
 ## Tips
 
 Check the Copyright/Privacy sections for Copyright by Example, LLC. All rights reserved.
