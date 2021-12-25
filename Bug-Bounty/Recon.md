@@ -38,6 +38,14 @@ Burp - https://portswigger.net/burp
 
 Wappalyzer - https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/
 
+Subfinder - https://github.com/projectdiscovery/subfinder
+
+Github-Subdomains - https://github.com/gwen001/github-subdomains
+
+Hunter (github dork) - https://gist.github.com/jhaddix/77253cea49bf4bd4bfd5d384a37ce7a4
+
+httprobe - https://github.com/tomnomnom/httprobe
+
 ## Tips
 
 Check the Copyright/Privacy sections for Copyright by Example, LLC. All rights reserved.
