@@ -42,9 +42,9 @@ Shodan
 
 - httprobe
 
+**Burp Site Mapping**
 
-
-
+Visit all the active hosts - use openlist
 
 
 **Sources**
