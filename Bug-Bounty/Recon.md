@@ -48,6 +48,26 @@ Hunter (github dork) - https://gist.github.com/jhaddix/77253cea49bf4bd4bfd5d384a
 
 httprobe - https://github.com/tomnomnom/httprobe
 
+ShuffleDNS - 
+
+Favfreak - 
+
+Masscan -
+
+Dnmasscan -
+
+EyeWitness -
+
+Aquatone -
+
+Nuclei - 
+
+Sn1per -
+
+Gofingerprint - 
+
+Nikto -
+
 ## Tips
 
 Check the Copyright/Privacy sections for Copyright by Example, LLC. All rights reserved.
