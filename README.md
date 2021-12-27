@@ -8,6 +8,12 @@ I started out learning the basic methodology and tools with tryhackme. They have
 
 Once I was familiar with those fundamentals I realised that I needed to be more familiar in a few languages. At this stage I felt that bash, SQL, Python, JavaScript were the most important for SQLi, XSS, automation and understanding some of the tools and exploits I was using. 
 
+## Learn Linux
+
+Linux Basics - https://linuxjourney.com/
+
+Vim - https://www.vimlabs.world/
+
 ## Learn Hacking / CTFs
 
 TryHackMe - https://tryhackme.com/
