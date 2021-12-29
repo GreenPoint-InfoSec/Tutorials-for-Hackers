@@ -12,9 +12,13 @@ Once I was familiar with those fundamentals I realised that I needed to be more 
 
 Linux Basics - https://linuxjourney.com/
 
-Vim - https://www.vimlabs.world/
+**Vim** 
+- /bin/vimtutorial
+- https://www.vimlabs.world/
+- https://vimeo.com/showcase/2838732
+- https://www.youtube.com/watch?v=l8iXMgk2nnY
 
-## Learn Hacking / CTFs
+## Basics
 
 TryHackMe - https://tryhackme.com/
 
@@ -32,7 +36,7 @@ OWASP Top10 - https://owasp.org/Top10/
 
 ## IT/Network Fundamentals
 
-INE
+INE - https://ine.com/
 
 ## Languages
 
