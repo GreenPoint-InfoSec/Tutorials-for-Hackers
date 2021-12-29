@@ -15,6 +15,7 @@ Linux Basics - https://linuxjourney.com/
 **Vim** 
 - /bin/vimtutorial
 - https://www.vimlabs.world/
+- http://derekwyatt.org/vim/tutorials/
 - https://vimeo.com/showcase/2838732
 - https://www.youtube.com/watch?v=l8iXMgk2nnY
 
