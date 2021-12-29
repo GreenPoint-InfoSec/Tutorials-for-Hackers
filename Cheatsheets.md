@@ -2,6 +2,10 @@
 
 A few of my favourites:
 
+## Vim
+
+https://vim.rtorr.com/
+
 ## Reconnaissance
 
 https://github.com/jhaddix/KingOfBugBountyTips
