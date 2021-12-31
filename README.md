@@ -12,6 +12,10 @@ Once I was familiar with those fundamentals I realised that I needed to be more 
 
 Linux Basics - https://linuxjourney.com/
 
+**bash**
+- https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+- https://www.learnshell.org/
+
 **Vim** 
 - /bin/vimtutorial
 - https://www.vimlabs.world/
