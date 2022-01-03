@@ -43,7 +43,9 @@ OWASP Top10 - https://owasp.org/Top10/
 
 INE - https://ine.com/
 
-## Languages
+## Scripting/Programming Languages
+
+Bash - https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 
 Python - https://docs.python.org/3/tutorial/index.html
 
